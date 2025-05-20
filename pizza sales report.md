@@ -12,5 +12,9 @@ This project helped me sharpen my SQL querying skills and gave me hands-on exper
 
 📌 Tools Used: MySQL 
 
+  # WsCube Tech Ayushi Jain
+  
+
+
 
 # pizza_sales_report
